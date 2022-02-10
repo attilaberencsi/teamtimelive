@@ -22,28 +22,28 @@
             "time": "--:-- -- ",
             "timeZone": "CET",
             "timeZoneJS": "Europe/Berlin",
-            "pos": "8.569592242848772;50.136287828822816;0",
-            "city": "Eschborn",
+            "pos": "13.415552025336362;52.520252805863194;0",
+            "city": "Berlin",
             "type": "Default",
-            "text": "Adem, Eugen, Parag"
+            "text": "Herr Smart, Frau Unsure,"
         },
         {
             "time": "--:-- -- ",
             "timeZone": "GMT",
             "timeZoneJS": "Europe/Dublin",
-            "pos": "-8.461359577168079;51.898204507081275;0",
+            "pos": "-6.259248101112975;53.34024996892022;0",
             "city": "Cork",
             "type": "Default",
-            "text": "Andrey, Arzoo"
+            "text": "Agent Bro"
         },
         {
             "time": "--:-- -- ",
             "timeZone": "WET",
             "timeZoneJS": "Europe/Lisbon",
-            "pos": "-9.139358739051145;38.72324536594777;0",
+            "pos": "-9.21744876087422;38.69658002963503;0",
             "city": "Lisbon",
             "type": "Default",
-            "text": "Eduardo, Renato"
+            "text": "Power Pablo, Teak Torrente"
         },
         {
             "time": "--:-- -- ",
@@ -52,16 +52,16 @@
             "pos": "-0.1439759547212563;51.57767050555364;0",
             "city": "London",
             "type": "Default",
-            "text": "Kathryn"
+            "text": "Mr.Complain, Ms.Problem"
         },
         {
             "time": "--:-- -- ",
             "timeZone": "CET",
             "timeZoneJS": "Europe/Budapest",
-            "pos": "19.012917;47.424101;0",
+            "pos": "19.067484719926185;47.468987117350245;0",
             "city": "Budapest",
             "type": "Default",
-            "text": "Attila"
+            "text": "Prof. Niemand"
         }
     ]
 }
