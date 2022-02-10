@@ -1,0 +1,67 @@
+{
+    "regionProperties": [
+        {
+            "code": "EU",
+            "legend": "Europe",
+            "color": "rgba(184,225,245,1.0)",
+            "tooltip": "Europe\r\n\r\nPopulation: 743 Mio"
+        },
+        {
+            "code": "NA",
+            "legend": "North America",
+            "color": "rgba(5,71,102,1.0)"
+        },
+        {
+            "code": "AS",
+            "legend": "Asia",
+            "color": "rgba(92,186,229,1.0)"
+        }
+    ],
+    "Spots": [
+        {
+            "time": "--:-- -- ",
+            "timeZone": "CET",
+            "timeZoneJS": "Europe/Berlin",
+            "pos": "8.569592242848772;50.136287828822816;0",
+            "city": "Eschborn",
+            "type": "Default",
+            "text": "Adem, Eugen, Parag"
+        },
+        {
+            "time": "--:-- -- ",
+            "timeZone": "GMT",
+            "timeZoneJS": "Europe/Dublin",
+            "pos": "-8.461359577168079;51.898204507081275;0",
+            "city": "Cork",
+            "type": "Default",
+            "text": "Andrey, Arzoo"
+        },
+        {
+            "time": "--:-- -- ",
+            "timeZone": "WET",
+            "timeZoneJS": "Europe/Lisbon",
+            "pos": "-9.139358739051145;38.72324536594777;0",
+            "city": "Lisbon",
+            "type": "Default",
+            "text": "Eduardo, Renato"
+        },
+        {
+            "time": "--:-- -- ",
+            "timeZone": "GMT",
+            "timeZoneJS": "Europe/London",
+            "pos": "-0.1439759547212563;51.57767050555364;0",
+            "city": "London",
+            "type": "Default",
+            "text": "Kathryn"
+        },
+        {
+            "time": "--:-- -- ",
+            "timeZone": "CET",
+            "timeZoneJS": "Europe/Budapest",
+            "pos": "19.012917;47.424101;0",
+            "city": "Budapest",
+            "type": "Default",
+            "text": "Attila"
+        }
+    ]
+}
